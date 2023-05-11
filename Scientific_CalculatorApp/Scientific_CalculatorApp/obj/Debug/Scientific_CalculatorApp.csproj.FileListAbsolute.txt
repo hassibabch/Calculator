@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Scientific_CalculatorApp\Scientific_CalculatorApp\bin\Debug\Scientific_CalculatorApp.exe.config
+C:\Users\admin\source\repos\Scientific_CalculatorApp\Scientific_CalculatorApp\bin\Debug\Scientific_CalculatorApp.exe
+C:\Users\admin\source\repos\Scientific_CalculatorApp\Scientific_CalculatorApp\bin\Debug\Scientific_CalculatorApp.pdb
+C:\Users\admin\source\repos\Scientific_CalculatorApp\Scientific_CalculatorApp\obj\Debug\Scientific_CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Scientific_CalculatorApp\Scientific_CalculatorApp\obj\Debug\Scientific_CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Scientific_CalculatorApp\Scientific_CalculatorApp\obj\Debug\Scientific_CalculatorApp.Form1.resources
+C:\Users\admin\source\repos\Scientific_CalculatorApp\Scientific_CalculatorApp\obj\Debug\Scientific_CalculatorApp.Properties.Resources.resources
+C:\Users\admin\source\repos\Scientific_CalculatorApp\Scientific_CalculatorApp\obj\Debug\Scientific_CalculatorApp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Scientific_CalculatorApp\Scientific_CalculatorApp\obj\Debug\Scientific_CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Scientific_CalculatorApp\Scientific_CalculatorApp\obj\Debug\Scientific_CalculatorApp.exe
+C:\Users\admin\source\repos\Scientific_CalculatorApp\Scientific_CalculatorApp\obj\Debug\Scientific_CalculatorApp.pdb
